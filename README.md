@@ -1,5 +1,10 @@
 <div align="center">
 
+  <!-- Баннер из игры OneShot -->
+  <img src="https://steamstatic.com" alt="OneShot" width="100%" />
+
+  <br /><br />
+
   <!-- Анимированный заголовок -->
   <img src="https://demolab.com" alt="Typing SVG" />
 
