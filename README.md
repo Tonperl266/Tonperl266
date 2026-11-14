@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Баннер из игры OneShot -->
-  <img src="https://steamstatic.com" alt="OneShot" width="750" />
+  <img src="./ugho1kbtpj551.jpg" alt="OneShot" width="750" />
 
   <br /><br />
 
