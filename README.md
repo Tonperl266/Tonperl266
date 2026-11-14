@@ -8,7 +8,7 @@
   <!-- Анимированный заголовок -->
   <img src="https://demolab.com" alt="Typing SVG" />
 
-  <!-- Бейджи просмотров профиля -->
+  <!-- Бейдж просмотров профиля -->
   <p>
     <img src="https://komarev.com" alt="Tonperl266" />
   </p>
@@ -35,8 +35,6 @@
   <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="GitHub" />
 </div>
-
-*(Ты можешь добавить сюда иконки своих БД, например SQL Server, PostgreSQL или фреймворков WPF / WinForms)*
 
 ---
 
