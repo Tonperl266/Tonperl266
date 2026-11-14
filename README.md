@@ -60,16 +60,7 @@
 ### 📫 Связаться со мной
 
 <div align="left">
-  <a href="https://github.com/Tonperl266">
+  <a href="https://github.com">
     <img src="https://shields.io" alt="GitHub" />
   </a>
-  <!-- Раскомментируй и вставь свои ссылки ниже при желании -->
-  <!--
-  <a href="https://t.me">
-    <img src="https://shields.io" alt="Telegram" />
-  </a>
-  <a href="mailto:ТВОЯ_ПОЧТА@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-  -->
 </div>
